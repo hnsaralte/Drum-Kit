@@ -1,1 +1,1 @@
-# Drum-Kit
+Drum kit using HTML, CSS and JavaScript.
